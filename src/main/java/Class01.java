@@ -13,6 +13,11 @@ public class Class01 {
         System.out.println(x+y+z);
         System.out.println("Done with codes for version 2");
 
+        //Codes For Version 3
+        int m = 5;
+        System.out.println(m);
+        System.out.println("Done with codes for version 3git");
+
 
 
     }
