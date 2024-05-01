@@ -16,7 +16,15 @@ public class Class01 {
         //Codes For Version 3
         int m = 5;
         System.out.println(m);
-        System.out.println("Done with codes for version 3git");
+        System.out.println("Done with codes for version 3");
+
+
+        //Codes For Version 4
+        int m = 5;
+        System.out.println(m);
+        System.out.println("Done with codes for version 4");
+
+
 
 
 
