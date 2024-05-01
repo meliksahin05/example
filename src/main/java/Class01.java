@@ -20,10 +20,9 @@ public class Class01 {
 
 
         //Codes For Version 4
-        int m = 5;
+        int m1 = 5;
         System.out.println(m);
         System.out.println("Done with codes for version 4");
-
 
 
 
